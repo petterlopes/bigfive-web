@@ -1,11 +1,11 @@
 {
   "version": 2,
   "scope": "petterlopes",
-  "alias": ["bigfive-web.com"],
+  "alias": ["bigfive-web-plum.vercel.app"],
   "env": {
     "MONGODB_URI": "@mongodb_uri",
     "MONGODB_COLLECTION": "results",
-    "BASE_URL": "https://bigfive-web.com"
+    "BASE_URL": "https://bigfive-web-plum.vercel.app"
   },
   "builds": [
     {
