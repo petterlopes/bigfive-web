@@ -15,7 +15,7 @@
       </v-row>
       <v-progress-linear
         :value="GET_PROGRESS"
-        height="25"
+        height="20"
         reactive
         rounded
         background-opacity="0.1"
@@ -29,7 +29,7 @@
         :key="question.id"
       >
         <h2>{{ question.text }}</h2>
-        <v-radio-group
+        <v-radio-group class="small-radio"
           :value="GET_CURRENT_ANSWER(question.id)"
           @change="answer => SET_ANSWER({ id: question.id, answer } )"
         >
