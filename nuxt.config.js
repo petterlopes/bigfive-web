@@ -276,7 +276,7 @@ export default {
       icons: false
     },
     lang: {
-      current: 'en'
+      current: 'pt'
     },
     theme: {
       light: true,
