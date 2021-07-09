@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "scope": "rubynor",
-  "alias": ["bigfive-test.com"],
+  "scope": "petterlopes",
+  "alias": ["bigfive-web.com"],
   "env": {
     "MONGODB_URI": "@mongodb_uri",
     "MONGODB_COLLECTION": "results",
-    "BASE_URL": "https://bigfive-test.com"
+    "BASE_URL": "https://bigfive-web.com"
   },
   "builds": [
     {
