@@ -28,8 +28,11 @@
         v-for="question in GET_CURRENT_QUESTIONS"
         :key="question.id"
       >
-        <h2>{{ question.text }}</h2>
-        <v-radio-group class="small-radio"
+        <h3 style="color:rgb(41, 60, 79);">
+          {{ question.text }}
+        </h3>
+        <v-radio-group
+          class="small-radio"
           :value="GET_CURRENT_ANSWER(question.id)"
           @change="answer => SET_ANSWER({ id: question.id, answer } )"
         >
@@ -142,7 +145,7 @@ export default {
     onResize () {
       window.innerWidth < 600
         ? this.SET_ITEMS_PER_PAGE(1)
-        : this.SET_ITEMS_PER_PAGE(3)
+        : this.SET_ITEMS_PER_PAGE(10)
     }
   }
 }

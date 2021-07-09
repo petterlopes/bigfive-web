@@ -28,7 +28,7 @@ const getDefaultState = () => ({
     inventory: [],
     position: 0,
     done: false,
-    invalid: false, 
+    invalid: false,
     inProgress: false
   }
 })
