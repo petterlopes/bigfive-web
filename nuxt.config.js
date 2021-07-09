@@ -1,5 +1,10 @@
 export default {
+
   components: true,
+  server: {
+    host: '0.0.0.0' // default: localhost
+  },
+
   /*
   ** Headers of the page
   */
@@ -11,7 +16,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Take a free, open-source Big Five personality test. Learn to know your personality traits and compare yourself with your partner, colleagues, friends or family.' },
       { hid: 'keywords', name: 'keywords', content: 'big five personality test, big 5 personality test, b5 test, bigfive test, personality traits, bigfive, compare, free, jordan peterson' },
-      { hid: 'og:title', name: 'og:title', content: 'Free open-source BigFive personality traits test' },
+      // { hid: 'og:title', name: 'og:title', content: 'Free open-source BigFive personality traits test' },
       { hid: 'og:description', name: 'og:description', content: 'Take a free, open-source Big Five personality test. Learn to know your personality traits and compare yourself with your partner, colleagues, friends or family' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
       { hid: 'og:url', name: 'og:url', content: 'https://bigfive-test.com' },
