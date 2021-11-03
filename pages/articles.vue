@@ -3,6 +3,7 @@
     <h1>Artigos</h1>
     PERITUM - Consultoria e Treinamento LTDA
   <div>
+  <div>
     <Wrapper>
       <v-row
         cols="12"
@@ -22,7 +23,6 @@
         </v-col>
       </v-row>
     </Wrapper>    
-  </div>
   </div>
 </template>
 <script>
