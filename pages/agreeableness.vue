@@ -12,70 +12,70 @@
     </v-img>
     <v-card-text>
       <p>
-        Agreeableness reflects individual differences in concern with cooperation and social harmony. Agreeable individuals value getting along with others.
+        A responsabilidade reflete diferenças individuais em preocupação com a cooperação e a harmonia social.Indivíduos agradáveis valorizam-se com os outros.
       </p>
       <p>
-        They are therefore considerate, friendly, generous, helpful, and willing to compromise their interests with others'.
-        Agreeable people also have an optimistic view of human nature.
-        They believe people are basically honest, decent, and trustworthy.
-        Disagreeable individuals place self-interest above getting along with others.
-        They are generally unconcerned with others' well-being, and therefore are unlikely to extend themselves for other people.
-        Sometimes their skepticism about others' motives causes them to be suspicious, unfriendly, and uncooperative.
+        Eles são, portanto, atenciosos, amigáveis, generosos, úteis e dispostos a comprometer seus interesses com os outros.
+        As pessoas agradáveis também têm uma visão otimista da natureza humana.
+        Eles acreditam que as pessoas são basicamente honestas, decentes e confiáveis.
+        Indivíduos desagradáveis colocam o interesse próprio acima com os outros.
+        Eles geralmente são despreocupados com o bem-estar dos outros e, portanto, são improváveis de se estenderem para outras pessoas.
+        Às vezes, seu ceticismo sobre os motivos dos outros faz com que eles sejam suspeitos, hostis e não cooperativos.
       </p>
 
       <blockquote class="blockquote">
         <v-icon>{{ mdiFormatQuoteOpen }}</v-icon>
-        Agreeableness reflects individual differences in concern with cooperation and social harmony.
+        A responsabilidade reflete as diferenças individuais em preocupação com a cooperação e a harmonia social.
         <v-icon>{{ mdiFormatQuoteClose }}</v-icon>
       </blockquote>
 
       <p>
-        Agreeableness is obviously advantageous for attaining and maintaining popularity.
-        Agreeable people are better liked than disagreeable people.
-        On the other hand, agreeableness is not useful in situations that require tough or absolute objective decisions.
-        Disagreeable people can make excellent scientists, critics, or soldiers.
+        A agricultura é obviamente vantajosa para atingir e manter a popularidade.
+        As pessoas agradáveis são melhores do que pessoas desagradáveis.
+        Por outro lado, a agradaidade não é útil em situações que exigem decisões objetivas difíceis ou absolutas.
+        Pessoas desagradáveis podem fazer excelentes cientistas, críticos ou soldados.
       </p>
 
       <div class="title">
-        Trust
+        Confiar
       </div>
       <p>
-        A person with high trust assumes that most people are fair, honest, and have good intentions. Persons low in trust see others as selfish, devious, and potentially dangerous.
+        Uma pessoa com alta confiança assume que a maioria das pessoas é justa, honesta e tem boas intenções.Pessoas baixas em confiança vêem os outros como egoístas, desonestos e potencialmente perigosos.
       </p>
 
       <div class="title">
-        Morality
+        Moralidade
       </div>
       <p>
-        High scorers on this scale see no need for pretense or manipulation when dealing with others and are therefore candid, frank, and sincere. Low scorers believe that a certain amount of deception in social relationships is necessary. People find it relatively easy to relate to the straightforward high-scorers on this scale. They generally find it more difficult to relate to the unstraightforward low-scorers on this scale. It should be made clear that low scorers are not unprincipled or immoral; they are simply more guarded and less willing to openly reveal the whole truth.
+        Altos marcadores nesta escala não vêem necessidade de fingimento ou manipulação ao lidar com os outros e são, portanto, sinceros, Frank e sincero.Baixos artilheiros acreditam que uma certa quantidade de decepção nas relações sociais é necessária.As pessoas acham relativamente fácil de se relacionar com os high-streters diretos nesta escala.Eles geralmente acham mais difícil se relacionar com os artilheiros de baixo desenterramento nessa escala.Deve ficar claro que os baixos artilheiros não são sem princípios ou imorais;Eles são simplesmente mais guardados e menos dispostos a revelar abertamente toda a verdade.
       </p>
 
       <div class="title">
-        Alturism
+        Altruísmo
       </div>
       <p>
-        Altruistic people find helping other people genuinely rewarding. Consequently, they are generally willing to assist those who are in need. Altruistic people find that doing things for others is a form of self-fulfillment rather than self-sacrifice. Low scorers on this scale do not particularly like helping those in need. Requests for help feel like an imposition rather than an opportunity for self-fulfillment.
+        As pessoas altruístas acham ajudando outras pessoas genuinamente gratificantes.Consequentemente, eles geralmente estão dispostos a ajudar aqueles que estão precisando.As pessoas altruístas acham que fazer coisas para os outros é uma forma de auto-realização em vez de auto-sacrifício.Baixos marcadores nesta escala não são particularmente como ajudar os necessitados.Pedidos de ajuda se sentir como uma imposição em vez de uma oportunidade para a auto-realização.
       </p>
 
       <div class="title">
-        Cooperation
+        Cooperação
       </div>
       <p>
-        Individuals who score high on this scale dislike confrontations. They are perfectly willing to compromise or to deny their own needs in order to get along with others. Those who score low on this scale are more likely to intimidate others to get their way.
+        Indivíduos que pontuam altos nesta escala não gostam de confrontos.Eles estão perfeitamente dispostos a comprometer ou negar suas próprias necessidades para se dar bem com os outros.Aqueles que marcam baixo nessa escala são mais propensos a intimidar os outros para obter o seu caminho.
       </p>
 
       <div class="title">
-        Modesty
+        Modéstia
       </div>
       <p>
-        High scorers on this scale do not like to claim that they are better than other people. In some cases this attitude may derive from low self-confidence or self-esteem. Nonetheless, some people with high self-esteem find immodesty unseemly. Those whoare willing to describe themselves as superior tend to be seen as disagreeably arrogant by other people.
+        Os maiores marcadores nesta escala não gostam de reivindicar que são melhores do que outras pessoas.Em alguns casos, essa atitude pode derivar de baixa autoconfiança ou auto-estima.No entanto, algumas pessoas com auto-estima alta acham imodestada inesperada.Aqueles que estão dispostos a se descrever como superiores tendem a ser vistos como desagradavelmente arrogantes por outras pessoas.
       </p>
 
       <div class="title">
-        Sympathy
+        Simpatia
       </div>
       <p>
-        People who score high on this scale are tenderhearted and compassionate. They feel the pain of others vicariously and are easily moved to pity. Low scorers are not affected strongly by human suffering. They pride themselves on making objective judgments based on reason. They are more concerned with truth and impartial justice than with mercy.
+        As pessoas que pontuam altas nesta escala são sensíveis e compassivas.Eles sentem a dor dos outros vicariamente e são facilmente movidos para pena.Artilheiros baixos não são afetados fortemente pelo sofrimento humano.Eles se orgulham de fazer julgamentos objetivos com base na razão.Eles estão mais preocupados com a verdade e a justiça imparcial do que com misericórdia.
       </p>
     </v-card-text>
   </v-card>

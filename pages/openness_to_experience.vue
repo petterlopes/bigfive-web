@@ -9,7 +9,7 @@
         class="image-title"
         v-html="$t('openness_to_experience.title')"
       >
-        Openness To Experience
+        Abertura para experimentar
       </v-card-title>
     </v-img>
     <v-card-text>

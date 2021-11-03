@@ -12,79 +12,79 @@
     </v-img>
     <v-card-text>
       <p>
-        Extraversion is marked by pronounced engagement with the external world.
+        A extroversão é marcada pelo envolvimento pronunciado com o mundo externo.
       </p>
       <p>
-        Extraverts enjoy being with people, are full of energy, and often experience positive emotions.
-        They tend to be enthusiastic, action-oriented, individuals who are likely to say "Yes!" or "Let's go!" to opportunities for excitement.
-        In groups they like to talk, assert themselves, and draw attention to themselves.
+        Extraves gostam de estar com as pessoas, estão cheios de energia e muitas vezes experimentam emoções positivas.
+        Eles tendem a ser entusiasmados, orientados para a ação, que são susceptíveis de dizer "sim!"ou "Vamos!"para oportunidades de excitação.
+        Em grupos eles gostam de falar, afirmar-se e chamar a atenção para si.
       </p>
       <blockquote class="blockquote">
         <v-icon>{{ mdiFormatQuoteOpen }}</v-icon>
-        Extraversion is marked by pronounced engagement with the external world.
+        A extroversão é marcada pelo envolvimento pronunciado com o mundo externo.
         <v-icon>{{ mdiFormatQuoteClose }}</v-icon>
       </blockquote>
       <p>
-        Introverts lack the exuberance, energy, and activity levels of extraverts.
-        They tend to be quiet, low-key, deliberate, and disengaged from the social world.
-        Their lack of social involvement should not be interpreted as shyness or depression; the introvert simply needs less stimulation than an extravert and prefers to be alone.
-        The independence and reserve of the introvert is sometimes mistaken as unfriendliness or arrogance.
-        In reality, an introvert who scores high on the extraversion dimension will not seek others out but will be quite pleasant when approached.
+        Introvertidos não têm exuberância, energia e níveis de atividade de extrovertidos.
+        Eles tendem a ser quieto, discreto, deliberado e desengatado do mundo social.
+        Sua falta de envolvimento social não deve ser interpretada como timidez ou depressão;O introvertido simplesmente precisa de menos estimulação do que um extravito e prefere ficar sozinho.
+        A independência e a reserva do introvertido às vezes são confundidas como se hostil ou arrogância.
+        Na realidade, um introvertido que pontua na dimensão da extroversão não procurará os outros, mas será bastante agradável quando abordado.
       </p>
 
       <div class="title">
-        Friendliness
+        Simpatia
       </div>
       <p>
-        Friendly people genuinely like other people and openly demonstrate positive feelings toward others.
-        They make friends quickly and it is easy for them to form close, intimate relationships.
-        Low scorers on Friendliness are not necessarily cold and hostile, but they do not reach out to others and are perceived as distant and reserved.
+        Pessoas amigáveis genuinamente como outras pessoas e demonstram abertamente sentimentos positivos em relação aos outros.
+        Eles fazem amigos rapidamente e é fácil para eles formar relacionamentos íntimos próximos.
+        Baixos marcadores na simpatia não são necessariamente frios e hostis, mas eles não estendem a mão para os outros e são percebidos como distantes e reservados.
       </p>
 
       <div class="title">
-        Gregariousness
+        gregariousness
       </div>
       <p>
-        Gregarious people find the company of others pleasantly stimulating and rewarding.
-        They enjoy the excitement of crowds. Low scorers tend to feel overwhelmed by, and therefore actively avoid, large crowds.
-        They do not necessarily dislike being with people sometimes, but their need for privacy and time to themselves is much greater than for individuals who score high on this scale.
+        As pessoas gregárias encontram a empresa de outros agradavelmente estimulando e recompensando.
+        Eles gostam da excitação de multidões.Baixos marcadores tendem a se sentir sobrecarregados e, portanto, evitam ativamente, grandes multidões.
+        Eles não necessariamente não gostam de estar com as pessoas às vezes, mas sua necessidade de privacidade e tempo para si é muito maior do que para indivíduos que pontuam no alto desta escala.
       </p>
 
       <div class="title">
-        Assertiveness
+        Assertividade
       </div>
       <p>
-        High scorers Assertiveness like to speak out, take charge, and direct the activities of others.
-        They tend to be leaders in groups.
-        Low scorers tend not to talk much and let others control the activities of groups.
+        Assertividade de maior pontuações gostam de falar, assumir conta e direcionar as atividades dos outros.
+        Eles tendem a ser líderes em grupos.
+        Baixos marcadores tendem a não falar muito e deixar os outros controlar as atividades dos grupos.
       </p>
 
       <div class="title">
-        Activity Level
+        Nível de atividade
       </div>
       <p>
-        Active individuals lead fast-paced, busy lives.
-        They move about quickly, energetically, and vigorously, and they are involved in many activities.
-        People who score low on this scale follow a slower and more leisurely, relaxed pace.
+        Indivíduos ativos levam vidas rápidas e ocupadas.
+        Eles se movem de forma rápida, energética e vigorosamente, e estão envolvidas em muitas atividades.
+        As pessoas que marcam baixo nesta escala seguem um ritmo mais lento e descontraído e descontraído.
       </p>
 
       <div class="title">
-        Excitement-Seeking
+        Busca de excitação
       </div>
       <p>
-        High scorers on this scale are easily bored without high levels of stimulation.
-        They love bright lights and hustle and bustle.
-        They are likely to take risks and seek thrills.
-        Low scorers are overwhelmed by noise and commotion and are adverse to thrill-seeking.
+        Os maiores pontuadores nesta escala são facilmente entediados sem altos níveis de estimulação.
+        Eles amam luzes brilhantes e agitação.
+        Eles são susceptíveis de assumir riscos e buscar emoções.
+        Artilheiros baixos são sobrecarregados por ruído e comoção e são adversos à busca de emoções.
       </p>
 
       <div class="title">
-        Cheerfulness
+        Alegria
       </div>
       <p>
-        This scale measures positive mood and feelings, not negative emotions (which are a part of the Neuroticism domain).
-        Persons who score high on this scale typically experience a range of positive feelings, including happiness, enthusiasm, optimism, and joy.
-        Low scorers are not as prone to such energetic, high spirits.
+        Essa escala mede humor e sentimentos positivos, não emoções negativas (que fazem parte do domínio do neuroticismo).
+        As pessoas que pontuam altas nesta escala tipicamente experimentam uma série de sentimentos positivos, incluindo felicidade, entusiasmo, otimismo e alegria.
+        Artilheiros baixos não são tão propensos a espíritos tão enérgicos e altos.
       </p>
     </v-card-text>
   </v-card>

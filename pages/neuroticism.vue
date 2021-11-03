@@ -12,97 +12,97 @@
     </v-img>
     <v-card-text>
       <p>
-        Neuroticism refers to the tendency to experience negative feelings.
+        O neuroticismo refere-se à tendência de experimentar sentimentos negativos.
       </p>
       <p>
-        Freud originally used the term neurosis to describe a condition marked by mental distress, emotional suffering, and an inability to cope effectively with the normal demands of life.
+        Freud originalmente usou o termo neurose para descrever uma condição marcada pelo sofrimento mental, sofrimento emocional e uma incapacidade de lidar efetivamente com as demandas normais da vida.
       </p>
       <p>
-        He suggested that everyone shows some signs of neurosis, but that we differ in our degree of suffering and our specific symptoms of distress.
+        Ele sugeriu que todos mostre alguns sinais de neurose, mas que diferimos em nosso grau de sofrimento e nossos sintomas específicos de aflição.
       </p>
       <p>
-        Today neuroticism refers to the tendency to experience negative feelings.
+        Hoje o neuroticismo refere-se à tendência de experimentar sentimentos negativos.
       </p>
       <p>
-        Those who score high on Neuroticism may experience primarily one specific negative feeling such as anxiety, anger, or depression, but are likely to experience several of these emotions.
+        Aqueles que marcam alto sobre o neuroticismo podem experimentar principalmente um sentimento negativo específico, como ansiedade, raiva ou depressão, mas provavelmente experimentarão várias dessas emoções.
       </p>
       <blockquote class="blockquote">
         <v-icon>{{ mdiFormatQuoteOpen }}</v-icon>
-        Neuroticism refers to the tendency to experience negative feelings.
+        O neuroticismo refere-se à tendência de experimentar sentimentos negativos.
         <v-icon>{{ mdiFormatQuoteClose }}</v-icon>
       </blockquote>
       <p>
-        People high in neuroticism are emotionally reactive.
+        As pessoas altas no neuroticismo são emocionalmente reativas.
       </p>
       <p>
-        They respond emotionally to events that would not affect most people, and their reactions tend to be more intense than normal.
+        Eles respondem emocionalmente a eventos que não afetam a maioria das pessoas, e suas reações tendem a ser mais intensas do que o normal.
       </p>
       <p>
-        They are more likely to interpret ordinary situations as threatening, and minor frustrations as hopelessly difficult.
+        Eles são mais propensos a interpretar situações comuns como ameaçadoras e pequenas frustrações como irremediavelmente difíceis.
       </p>
       <p>
-        Their negative emotional reactions tend to persist for unusually long periods of time, which means they are often in a bad mood.
+        Suas reações emocionais negativas tendem a persistir por períodos extraordinariamente longos de tempo, o que significa que eles muitas vezes estão de mau humor.
       </p>
       <p>
-        These problems in emotional regulation can diminish a neurotic's ability to think clearly, make decisions, and cope effectively with stress.
-      </p>
-
-      <div class="title">
-        Anxiety
-      </div>
-      <p>
-        The "fight-or-flight" system of the brain of anxious individuals is too easily and too often engaged.
-        Therefore, people who are high in anxiety often feel like something dangerous is about to happen.
-        They may be afraid of specific situations or be just generally fearful.
-        They feel tense, jittery, and nervous. Persons low in Anxiety are generally calm and fearless.
+        Esses problemas em regulamentação emocional podem diminuir a capacidade de uma neurótica de pensar claramente, tomar decisões e lidar efetivamente com o estresse.
       </p>
 
       <div class="title">
-        Anger
+        Ansiedade
       </div>
       <p>
-        Persons who score high in Anger feel enraged when things do not go their way.
-        They are sensitive about being treated fairly and feel resentful and bitter when they feel they are being cheated.
-        This scale measures the tendency to feel angry; whether or not the person expresses annoyance and hostility depends on the individual's level on neuroticism.
-        Low scorers do not get angry often or easily.
+        O sistema "luta ou vôo" do cérebro de indivíduos ansiosos é facilmente e muitas vezes envolvido.
+        Portanto, as pessoas que são altas em ansiedade muitas vezes sentem que algo perigoso está prestes a acontecer.
+        Eles podem ter medo de situações específicas ou ser apenas com medo.
+        Eles se sentem tensos, nervosos e nervosos.As pessoas baixas em ansiedade são geralmente calmas e destemidas.
       </p>
 
       <div class="title">
-        Depression
+        Raiva
       </div>
       <p>
-        This scale measures the tendency to feel sad, dejected, and discouraged.
-        High scorers lack energy and have difficulty initiating activities.
-        Low scorers tend to be free from these depressive feelings.
+        As pessoas que pontuam com raiva se sentem enfurecidas quando as coisas não seguem.
+        Eles são sensíveis sobre serem tratados de forma justa e se sentem ressentidos e amargos quando sentem que estão sendo enganados.
+        Esta escala mede a tendência de se sentir irritado;se a pessoa expressa ou não aborrecimento e hostilidade depende do nível do indivíduo no neuroticismo.
+        Artilheiros baixos não ficam com raiva frequentemente ou facilmente.
       </p>
 
       <div class="title">
-        Self-Consciousness
+        Depressão
       </div>
       <p>
-        Self-conscious individuals are sensitive about what others think of them.
-        Their concern about rejection and ridicule cause them to feel shy and uncomfortable abound others.
-        They are easily embarrassed and often feel ashamed.
-        Their fears that others will criticize or make fun of them are exaggerated and unrealistic, but their awkwardness and discomfort may make these fears a self-fulfilling prophecy.
-        Low scorers, in contrast, do not suffer from the mistaken impression that everyone is watching and judging them.
-        They do not feel nervous in social situations.
+        Essa escala mede a tendência de se sentir triste, desencorajada e desencorajada.
+        Os maiores marcadores não têm energia e têm dificuldade em iniciar atividades.
+        Artilheiros baixos tendem a ficar livres desses sentimentos depressivos.
       </p>
 
       <div class="title">
-        Immoderation
+        Autoconsciência
       </div>
       <p>
-        Immoderate individuals feel strong cravings and urges that they have have difficulty resisting.
-        They tend to be oriented toward short-term pleasures and rewards rather than long- term consequences.
-        Low scorers do not experience strong, irresistible cravings and consequently do not find themselves tempted to overindulge.
+        Indivíduos autoconscientes são sensíveis sobre o que os outros pensam deles.
+        Sua preocupação com a rejeição e o ridículo faz com que eles se sintam tímidos e desconfortáveis abundam os outros.
+        Eles são facilmente envergonhados e muitas vezes se sentem envergonhados.
+        Seus medos que os outros criticarão ou tirarem sarro deles são exagerados e irrealistas, mas sua constrangimento e desconforto podem fazer esses medos uma profecia auto-realizável.
+        Artilheiros baixos, em contraste, não sofrem com a impressão equivocada de que todos estão assistindo e a julgando.
+        Eles não se sentem nervosos em situações sociais.
       </p>
 
       <div class="title">
-        Vulnerability
+        Imoderação
       </div>
       <p>
-        High scorers on Vulnerability experience panic, confusion, and helplessness when under pressure or stress.
-        Low scorers feel more poised, confident, and clear-thinking when stressed.
+        Indivíduos imoderados sentem grandes desejos e pedem que tenham dificuldade em resistir.
+        Eles tendem a ser orientados para prazeres e recompensas de curto prazo, em vez de conseqüências de longo prazo.
+        Artilheiros baixos não experimentam desejos fortes e irresistíveis e, consequentemente, não se vêem tentados a superindumular.
+      </p>
+
+      <div class="title">
+        Vulnerabilidade
+      </div>
+      <p>
+        Altos marcadores na vulnerabilidade experimentam pânico, confusão e desamparo quando sob pressão ou estresse.
+        Ponteiros baixos se sentem mais prontos, confiante e claro quando estressado.
       </p>
     </v-card-text>
   </v-card>
