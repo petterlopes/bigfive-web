@@ -23,8 +23,6 @@
       </v-row>
     </Wrapper>    
   </div>
-
-
   </div>
 </template>
 <script>
