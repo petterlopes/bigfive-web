@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Artigos</h1>
-    Under construction ...
+    PERITUM - Consultoria e Treinamento LTDA
   <div>
     <Wrapper>
       <v-row
@@ -16,8 +16,8 @@
         >
           <img
             class="responsive"
-            alt="Girl infront of test"
-            :src="require('@/assets/PERITUM.svg')"
+            alt="PERITUM - Consultoria e Treinamento LTDA"
+            :src="require('@/assets/PERITUM.png')"
           >
         </v-col>
       </v-row>
