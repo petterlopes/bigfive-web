@@ -17,7 +17,7 @@
           <img
             class="responsive"
             alt="Girl infront of test"
-            :src="require('@/assets/front.svg')"
+            :src="require('@/assets/PERITUM.svg')"
           >
         </v-col>
       </v-row>
