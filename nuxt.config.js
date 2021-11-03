@@ -61,7 +61,7 @@ export default {
   buildModules: [
     '@nuxtjs/vuetify',
     ['@nuxtjs/google-analytics', {
-      id: 'UA-92177881-2'
+      id: 'UA-18805026-9'
     }]
   ],
   /*
