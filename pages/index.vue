@@ -46,8 +46,8 @@
         >
           <img
             class="responsive"
-            alt="Girl infront of test"
-            :src="require('@/assets/front.svg')"
+            alt="BIG FIVE TEST, PERITUM - Consultoria e Treinamento LTDA"
+            :src="require('@/assets/PERITUM.png')"
           >
         </v-col>
       </v-row>
