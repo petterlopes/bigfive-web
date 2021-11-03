@@ -3,7 +3,7 @@
     <v-card-title v-html="$t('big_five.title')" />
     <v-card-text>
       <p>
-        The Big Five are five broad factors (dimensions) of personality traits. They are:
+        PERITUM - The Big Five are five broad factors (dimensions) of personality traits. They are:
       </p>
       <p>Extraversion</p>
       <p>Agreeableness</p>
