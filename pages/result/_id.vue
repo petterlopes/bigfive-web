@@ -78,7 +78,7 @@ export default {
         results: data.results,
         metadata: {
           timestamp: data.timestamp,
-          language: query.lang || data.language || 'en',
+          language: query.lang || data.language || 'pt',
           availableLanguages: data.availableLanguages
         }
       }
