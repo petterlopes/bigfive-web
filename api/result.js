@@ -22,7 +22,8 @@ module.exports = async (req, res) => {
     const collection = db.collection(dbCollection)
     const data = await collection.findOne({ _id: ObjectId(id) })
     const scores = calculateScore(data)
-    const results = getResult({ scores, lang: lang || data.lang || 'en' })
+    //const results = getResult({ scores, lang: lang || data.lang || 'en' })
+    const results = getResult({ scores, lang: 'en' })
 
     res.json({
       timestamp: data.dateStamp,
