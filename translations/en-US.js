@@ -38,6 +38,7 @@ export default {
       }
     },
     description: {
+      drucker: '<strong>“As pessoas são contratadas por suas habilidades técnicas, mas são demitidas pelos seus comportamentos.”</strong> Peter Drucker',
       top: 'Learn to know yourself better with a free, open-source personality test.',
       subtop: 'The',
       subtop2: ' is the most scientifically validated and reliable psychological model to measure personality.',
