@@ -7,7 +7,7 @@
             <v-select
               v-model="metadata.language"
               :items="metadata.availableLanguages"
-              label="Change language"
+              label="Escolha o idioma"
               :append-icon="mdiMenuDown"
               @input="changeLanguage"
             />
