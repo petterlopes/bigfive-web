@@ -30,7 +30,7 @@
 
       <p>
         Atos antissociais não controlados não só prejudicam outros membros da sociedade, mas também podem resultar em retribuição para o perpetrador de tais atos impulsivos.
-        Outro problema com atos impulsivos é que eles geralmente produzem recompensas imediatas, mas consequências indesejáveis ​​e de longo prazo.
+        Outro problema com atos impulsivos é que eles geralmente produzem recompensas imediatas, mas consequências indesejáveis e de longo prazo.
         Os exemplos incluem a socialização excessiva que leva a ser demitida do trabalho de alguém, arremessando um insulto que causa o rompimento de um relacionamento importante, ou usando drogas induzidas por prazer que eventualmente destruam a saúde.
         Comportamento impulsivo, mesmo quando não seriamente destrutivo, diminui a eficácia de uma pessoa de maneiras significativas.
         Atuando impulsivamente desperdiçando contemplando cursos alternativos de ação, alguns dos quais teriam sido mais sábios que a escolha impulsiva.

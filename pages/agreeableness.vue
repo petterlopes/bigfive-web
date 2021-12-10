@@ -12,9 +12,10 @@
     </v-img>
     <v-card-text>
       <p>
-        A amabilidade reflete as diferenças individuais na preocupação com a cooperação e a harmonia social. Indivíduos agradáveis ​​valorizam se dar bem com os outros.      </p>
+        A amabilidade reflete as diferenças individuais na preocupação com a cooperação e a harmonia social. Indivíduos agradáveis valorizam se dar bem com os outros.
+      </p>
       <p>
-        Eles são, portanto, atenciosos, amigáveis, generosos, prestativos e dispostos a comprometer seus interesses com os dos outros. Pessoas agradáveis ​​também têm uma visão otimista da natureza humana. Eles acreditam que as pessoas são basicamente honestas, decentes e confiáveis. Indivíduos desagradáveis ​​colocam o interesse próprio acima de se dar bem com os outros. Eles geralmente não se preocupam com o bem-estar dos outros e, portanto, é improvável que se estendam para outras pessoas. Às vezes, seu ceticismo sobre os motivos dos outros faz com que sejam desconfiados, hostis e não cooperativos.
+        Eles são, portanto, atenciosos, amigáveis, generosos, prestativos e dispostos a comprometer seus interesses com os dos outros. Pessoas agradáveis   também têm uma visão otimista da natureza humana. Eles acreditam que as pessoas são basicamente honestas, decentes e confiáveis. Indivíduos desagradáveis   colocam o interesse próprio acima de se dar bem com os outros. Eles geralmente não se preocupam com o bem-estar dos outros e, portanto, é improvável que se estendam para outras pessoas. Às vezes, seu ceticismo sobre os motivos dos outros faz com que sejam desconfiados, hostis e não cooperativos.
       </p>
 
       <blockquote class="blockquote">
@@ -24,7 +25,7 @@
       </blockquote>
 
       <p>
-        A amabilidade é obviamente vantajosa para alcançar e manter a popularidade. Pessoas agradáveis ​​são mais queridas do que pessoas desagradáveis. Por outro lado, a afabilidade não é útil em situações que exigem decisões difíceis ou objetivas absolutas. Pessoas desagradáveis ​​podem ser excelentes cientistas, críticos ou soldados.
+        A amabilidade é obviamente vantajosa para alcançar e manter a popularidade. Pessoas agradáveis   são mais queridas do que pessoas desagradáveis. Por outro lado, a afabilidade não é útil em situações que exigem decisões difíceis ou objetivas absolutas. Pessoas desagradáveis   podem ser excelentes cientistas, críticos ou soldados.
       </p>
 
       <div class="title">

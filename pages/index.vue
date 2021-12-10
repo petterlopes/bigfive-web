@@ -11,6 +11,10 @@
           md="6"
           class="text-md-left text-center"
         >
+          <p
+            :class="{ 'responsive-text': $vuetify.breakpoint.smAndDown }"
+            v-html="$t('frontpage.description.drucker')"
+          />
           <h1>
             {{ $t('frontpage.title') }}
           </h1>
